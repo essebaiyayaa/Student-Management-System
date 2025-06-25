@@ -1,5 +1,5 @@
 
-# Student Management System (C Project)
+# Student Management System 
 
 A simple yet functional console-based student information management system written in C. This project allows users to manage student records, handle their grades, and generate academic reports using linked lists and file persistence.
 
