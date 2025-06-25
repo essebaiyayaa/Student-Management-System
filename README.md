@@ -11,14 +11,14 @@ Cproject/
 ├── CMakeLists.txt     # CMake build configuration
 ├── .git/              # Git version control directory
 ```
-## 🚀 Features
+## Features
 
-- ➕ Add, modify, and delete student records
-- 📚 Manage grades for multiple modules per student
-- 🔎 Search students by ID, name, or age
-- 📄 Generate detailed student reports
-- 📈 Display academic performance summaries
-- 💾 Save and load data from files to ensure persistence
+-  Add, modify, and delete student records
+-  Manage grades for multiple modules per student
+-  Search students by ID, name, or age
+-  Generate detailed student reports
+-  Display academic performance summaries
+-  Save and load data from files to ensure persistence
 
 ---
 
