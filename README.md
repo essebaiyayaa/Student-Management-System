@@ -30,7 +30,7 @@ Cproject/
 
 ---
 
-## ⚙️ How to Build and Run
+## How to Build and Run
 
 ### Requirements
 - GCC compiler
@@ -82,4 +82,4 @@ gcc main.c -o student_manager
 - **Aya Essebaiy**
 - **Fatima El Messaoudi**
 
-## 📅 Academic Year: 2024/2025
+## Academic Year: 2024/2025
